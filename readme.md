@@ -15,6 +15,9 @@
   - Laravel : 5.8
   - composer : 2.1.5  
 
+## パス  
+/Applications/MAMP/htdocs/blog
+
 ## 参考動画  
 [youtube](https://www.youtube.com/watch?v=yaitzPzBzuI&list=PLEdrX-C93h6Bhxyjg9G1kb7GY8iJuhyPv&index=5)
 
